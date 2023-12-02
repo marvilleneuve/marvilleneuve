@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marvilleneuve
+- 👋 Hi, I’m Mario Villanueva
 - 👀 I’m interested in learning and exploring new projects, idk, maybe i can colaborate with someone
 - 🌱 I’m currently learning CI/CD
 - 💞️ I’m looking to collaborate on every project, i believe i would learn in every step.
